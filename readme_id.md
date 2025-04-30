@@ -1,5 +1,5 @@
 # Lazy-Prior
-Sebuah program untuk membantu menyelesaikan tugas harian testnet !
+Sebuah program untuk membantu menyelesaikan tugas harian prior testnet !
 
 ## Diskusi
 Jika kamu memiliki pertanyaan, kamu bisa bergabung ke grup berikut
@@ -19,17 +19,23 @@ Jika kamu menyukai / terbantu dengan program ini, kamu bisa mendukung saya melak
 ```
 # klone repository
 git clone https://github.com/akasakaid/lazy-prior.git
+
 # masuk ke folder lazy-prior
 cd lazy-prior
+
 # buat virtual environment python (opsional)
 python3 -m venv env
+
 # mengaktifkan virtual environmen (jika membuat)
 # windows
 env\scripts\activate
+
 # Linux/Mac:
 source env/bin/activate
+
 # install library yang dibutuhkan
 pip install -r requirements.txt
+
 # menjalankan file swap.py
 python swap.py
 

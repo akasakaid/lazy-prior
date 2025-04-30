@@ -1,5 +1,5 @@
 # Lazy-Prior
-A program to help complete daily testnet tasks!
+A program to help complete daily prior testnet tasks!
 
 ## Discussion
 If you have any questions, feel free to join our group:  
